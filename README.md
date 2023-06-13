@@ -1,7 +1,7 @@
 # reactPy-sample
 reactPyで作成したアプリケーションです。
 以下に詳細を記載しています。
-
+[PythonでReactを実現するreactPyをさわってみた](https://qiita.com/eno49conan/items/8ffa3c4b819449d4578e)
 
 ### reactPy(gitHub)
 https://github.com/reactive-python/reactpy
@@ -24,3 +24,6 @@ python view.py
 ```
 uvicorn view:app --reload
 ```
+
+### デプロイ先
+[fly.io](https://fly.io/)
