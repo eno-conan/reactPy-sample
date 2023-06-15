@@ -8,7 +8,7 @@ def Layout(children: VdomChildren):
     return html.main(
         html.div(
             {
-                "class": "bg-gray-300 min-h-screen dark:bg-gray-900 dark:text-white",
+                "class": "bg-gray-200 min-h-screen dark:bg-gray-900 dark:text-white",
             },
             html.div(
                 {
